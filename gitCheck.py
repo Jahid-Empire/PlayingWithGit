@@ -17,3 +17,6 @@ for i in range(1,5):
 
 #for git branch temp1
 print("ABC")  
+
+for i in range(100):
+  print("Everything is defined by the almighty Allah")
